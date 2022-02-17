@@ -1,0 +1,39 @@
+@import url('https://fonts.googleapis.com/css2?family=DM+Sans&display=swap');
+
+body{
+    font-family: 'DM Sans', sans-serif;
+    color: #fff;
+    background-color: #18435A;
+}
+
+.btn-primary{
+    background-color: #2A628F;
+    border-color: #16324F;
+}
+.btn-primary:hover{
+    background-color: #13293D;
+    border-color: #fff;
+}
+
+.btn-outline-primary{
+    background-color: #FFFFFF;
+    border-color: #16324F;
+    color: #000;
+}
+.btn-outline-primary:hover{
+    background-color: #13293D;
+    border-color: #fff;
+}
+
+.form-check-input:checked{
+    background-color: #3E92CC;
+    color: #3E92CC;
+}
+
+caption{
+    color: #fff;
+}
+
+.header-row{
+    background-color: #2A628F;
+}
